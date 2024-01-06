@@ -27,10 +27,10 @@ Started On: 2024-01-06
 
 ### References:
 
+- [Sanity.io](https://www.sanity.io/)
+- [Sanity Docs](https://www.sanity.io/)
 - [Sanity Demo](https://www.sanity.io/demos/ecommerce)
-- []()
-- []()
-- []()
+- [Sanity Crash Course - Sanity Crash Course: Learn The Basics in 20 Minutes! - YouTube video](https://youtu.be/bDVAQZVeebw?feature=shared)
 - []()
 - []()
 - []()
